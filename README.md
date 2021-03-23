@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- I'm graduate in Network Systems Administration.
 - I'm currently studying in [42Madrid](https://www.42madrid.com).
 - I'm currently learning **Python** and **Nodejs**.
 
