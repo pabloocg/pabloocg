@@ -27,7 +27,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloocg&layout=compact&theme=tokyonight&count_private=true&hide=makefile,HTML,assembly&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloocg&layout=compact&theme=tokyonight&count_private=true&hide=makefile,HTML,assembly,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pabloocg&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
