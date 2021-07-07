@@ -3,7 +3,6 @@
 - I'm graduate in Network Systems Administration.
 - I'm currently studying in [42Madrid](https://www.42madrid.com).
 - Experience developing with C/C++ and as Backend Developer.
-- I'm currently learning **Java**.
 
 ---
 
