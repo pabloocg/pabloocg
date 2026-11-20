@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloocg&layout=compact&theme=tokyonight&count_private=true&hide=makefile,HTML,assembly,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pabloocg)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
